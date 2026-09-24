@@ -1,0 +1,6 @@
+{
+  "name": "Classic Snake",
+  "description": "A retro arcade classic Snake game with responsive controls, grid canvas rendering, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
